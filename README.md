@@ -35,17 +35,6 @@ This structured approach helps me strengthen problem-solving skills while master
 2. Open the repository in **VS Code**.
 3. Run the Java programs via VS Code’s integrated terminal.
 
-## 📅 Timeline & Milestones
-
-- [ ] **Pattern Problems**: In Progress
-- [ ] **Basic Problems**: In Progress
-- [ ] **Number Problems**: In Progress
-- [ ] **Array Problems**: In Progress
-- [ ] **String Problems**: In Progress
-- [ ] **Recursion Problems**: In Progress
-- [ ] **OOP Problems**: In Progress
-- [ ] **Advanced Java Problems**: In Progress
-
 ## 📚 Contributions
 
 Feel free to contribute by submitting issues, suggestions, or even adding your solutions to problems. If you want to contribute:
