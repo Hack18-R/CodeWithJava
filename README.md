@@ -15,14 +15,15 @@ Welcome to my **Java Coding Journey**! This repository showcases my progress as 
 
 I focus on solving Java problems in the following areas:
 
-- **Pattern Problems**: Generating and manipulating patterns.
-- **Basic Problems**: Fundamental programming challenges.
-- **Number Problems**: Mathematical computations and logic-building.
-- **Array Problems**: Working with arrays, sorting, searching, and manipulation.
-- **String Problems**: String operations, transformations, and optimizations.
-- **Recursion Problems**: Solving problems using recursive approaches.
-- **OOP Problems**: Object-oriented design, classes, inheritance, and polymorphism.
-- **Advanced Java Problems**: Multithreading, streams, exception handling, and more.
+- **Pattern Problems**
+- **Conditional Statement Problems**
+- **Loop Problems**
+- **Number Problems**
+- **Array Problems**
+- **String Problems**
+- **Recursion Problems**
+- **DSA Problems**
+
 
 This structured approach helps me strengthen problem-solving skills while mastering Java concepts through hands-on coding.
 
